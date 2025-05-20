@@ -49,7 +49,7 @@
 </head>
 <body>
     
-<div> id = "mitarea1">
+
 
     <div>
         <h1>Bienvenidos a mi Menu </h1>
@@ -58,7 +58,7 @@
     <div class="menu">
     <ul>
          <li>
-            <a href="tarjeta.php">Mi Tarjeta</a>
+            <a href="tarjeta.php">Tarjeta</a>
          </li>
          <li>
             <a href="calculadora.php">Calculadora</a>
@@ -67,13 +67,17 @@
             <a href="adivina.php">Adivina el Numero</a>
          </li>
          <li>
-            <a href="acerca_de.php">Acerca de</a>
+            <a href="acercade.php">Acerca de</a>
          </li>
+         <li>
+            <a href="index.php">Menu</a>
+         </li>
+
     </ul>
      </div>
        
 
-<div>
+
 
 </body>
 </html>
